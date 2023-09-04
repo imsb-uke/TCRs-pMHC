@@ -11,6 +11,10 @@ This repository share the dataversion used.
 
 All dataversion contain negative and positive examples. All dataversion has 5 folds each contain a training and test set.
 
+*d<sub> tpp_dataset.csv.gz</sub>
+is the TPP-dataset not splittet apart with additional information like referencelink and MHC. to unzip use gunzip cmd
+
+
 
 # Citation
 Use for this benchmark paper following citation
