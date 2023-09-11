@@ -20,16 +20,16 @@ is the TPP-dataset not splittet apart with additional information like reference
 Use for this benchmark paper following citation
 ```r
 @article{weber2021titan
-    author = {Lihua Deng, Cedric Ly, Sina Abdollahi, Yu Zhao, Immo Prinz and Stefan Bonn},
+    author = {Deng, Lihua and Ly, Cedric and Abdollahi, Sina and Zhao, Yu and Prinz, Immo and Bonn, Stefan},
     title = "{Performance comparison of TCR-pMHC prediction tools reveals a strong data dependency}",
-    journal = {},
-    volume = {},
+    journal = {Frontiers in Immunology},
+    volume = {14},
     number = {},
     pages = {},
-    year = {},
+    year = {2023},
     month = {},
-    issn = {},
-    doi = {},
-    url = {}
+    issn = {1664-3224},
+    doi = {10.3389/fimmu.2023.1128326},
+    url = {https://www.frontiersin.org/articles/10.3389/fimmu.2023.1128326}
 }
 ```
